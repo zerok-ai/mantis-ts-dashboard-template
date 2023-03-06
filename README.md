@@ -1,0 +1,1 @@
+# mantis-ts-dashboard-template
